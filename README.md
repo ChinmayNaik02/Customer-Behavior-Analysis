@@ -1,4 +1,4 @@
-# Term Deposit Subscription Prediction Project
+# Customer Behavior Analysis
 
 
 ## Overview
